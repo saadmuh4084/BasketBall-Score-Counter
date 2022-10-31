@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-image: url("images.jpg");
+    background-size: cover;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    margin-top:15px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    margin: 30;
+}
+.h1box{
+    background-color:black;
+    text-align: center; 
+    color:red;
+    
+}
+.h1gbox{
+    background-color:black;
+    text-align: center; 
+    color:red;
+    
+}
+button {
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+#rebutton{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
